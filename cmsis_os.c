@@ -1,6 +1,6 @@
 /* ----------------------------------------------------------------------
  * $Date:        5. February 2013
- * $Revision:    V1.02
+ * $Revision:    V1.03
  *
  * Project:      CMSIS-RTOS API
  * Title:        cmsis_os.c
